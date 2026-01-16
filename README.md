@@ -1,58 +1,107 @@
-<h2>👋 Hi, I'm Omar Hossam</h2>
+<h2 align="center">
+  👋 Hi, I'm Omar Hossam
+</h2>
 
-<p>
-Aspiring <b>Data Analyst</b> with a strong interest in turning data into clear insights and dashboards.
-Currently building practical projects using Excel and Power BI.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <b>Data Analyst</b> | Excel • Power BI • SQL
+</p>
+
+<p align="center">
+  Building clear dashboards, extracting insights, and telling stories with data 📊
 </p>
 
 ---
 
-## 📊 About Me
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="220"/>
+
+## 🚀 About Me
 - 🎓 Faculty of Arts – Sociology
-- 📈 Learning Data Analysis with a focus on practical, job-ready skills
-- 🧠 Interested in business insights, data storytelling, and dashboards
-- 🤝 Open to internships and junior opportunities
+- 📊 Data Analyst with hands-on dashboard projects
+- 🧠 Strong interest in business analysis & data storytelling
+- 🤝 Open to junior roles, internships, and freelance opportunities
 
 ---
 
-## 🛠 Tools & Skills
-- **Data Analysis:**  
-  Excel (Pivot Tables, Charts, Data Cleaning)  
-  Power BI (Dashboards, Visualizations, Insights)
+## 🛠 Tools & Technical Skills
 
-- **Basic Knowledge:**  
-  SQL (basic queries)  
-  Python (basic concepts)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</p>
 
-- **Other Skills:**  
-  Data Cleaning  
-  Data Visualization  
-  Data Storytelling  
+### 🔹 Data Analysis & Visualization
+- 🟢 **Excel (Advanced)** – Data Cleaning, Pivot Tables, Advanced Charts  
+- 🟢 **Power BI (Advanced)** – Data Modeling, DAX basics, Interactive Dashboards  
 
----
+### 🔹 Databases & Querying
+- **SQL (Intermediate)** – SELECT, WHERE, JOINs, GROUP BY, Subqueries  
 
-## 📁 Projects
-This repository contains multiple data analysis dashboard projects, including:
-- Sales analysis dashboards
-- Customer insights dashboards
-- Business performance dashboards
+### 🔹 Programming (Working Knowledge)
+- **Python (Basic)** – Data analysis basics, loops, conditions, simple scripts  
 
-Each project folder includes:
-- Dashboard screenshots
-- Clear explanation of the insights
-
----
-
-## 🔗 Links
-- 💼 LinkedIn:https://www.linkedin.com/in/omar-hossam-51bab1268/
-- 🎨 Behance (Motion Graphics): https://www.behance.net/omarm18
+### 🔹 Core Concepts
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- KPI Tracking & Business Metrics  
+- Data Storytelling  
 
 ---
 
-## 🎯 Current Goal
-To start my career as a **Junior Data Analyst** by applying my skills in real-world projects and continuously improving through hands-on practice.
+## 📊 Selected Projects
+> Practical dashboards built to solve real business questions.
+
+### 🔹 Sales Performance Dashboard
+<img src="Project-1/screenshot1.png" width="700"/>
+
+**Key Insights:**
+- Identified top-performing products and regions
+- Analyzed monthly and quarterly sales trends
 
 ---
 
-⭐ Feel free to explore the projects and reach out if you'd like to collaborate or give feedback.
+### 🔹 Customer Insights Dashboard
+<img src="Project-2/screenshot1.png" width="700"/>
 
+**Key Insights:**
+- Customer segmentation based on behavior
+- High-value customers contribute a small % of total users but generate higher revenue
+
+---
+
+### 🔹 Business Performance Dashboard
+<img src="Project-3/screenshot1.png" width="700"/>
+
+**Key Insights:**
+- Compared performance across categories
+- Highlighted opportunities for growth and optimization
+
+---
+
+## 🎯 Current Focus
+- Advancing my **SQL skills** (complex queries, joins, subqueries, and optimization basics)
+- Expanding my knowledge of **Python for data analysis**
+- Learning **Data Engineering fundamentals** (data pipelines, data flow, and structured datasets)
+- Applying data analysis to **real-world business problems** and improving data storytelling
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Hossam-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.behance.net/omarm18">
+    <img src="https://img.shields.io/badge/Behance-Motion%20Graphics-black?style=for-the-badge&logo=behance"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+  <br/>
+  <b>Let’s turn data into insights.</b>
+</p>
