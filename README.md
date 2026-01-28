@@ -67,7 +67,10 @@
 ---
 
 ### 🔹 Customer Insights Dashboard
-<img src="Project-2/screenshot1.png" width="700"/>
+<a href="projects/project-2">
+  <img src="profile-previews/2/preview.jpg" width="750"/>
+</a>
+
 
 **Key Insights:**
 - Customer segmentation based on behavior
@@ -76,8 +79,9 @@
 ---
 
 ### 🔹 Business Performance Dashboard
-<img src="Project-3/screenshot1.png" width="700"/>
-
+<a href="projects/project-3">
+  <img src="profile-previews/3/preview.jpg" width="750"/>
+</a>
 **Key Insights:**
 - Compared performance across categories
 - Highlighted opportunities for growth and optimization
